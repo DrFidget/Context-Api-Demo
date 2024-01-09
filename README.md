@@ -21,7 +21,8 @@ Navigate to the project directory in your terminal.
 Install dependencies: pnpm install
 Start JSON Server:
 
-In a separate terminal window, run: json-server --watch db.json --port 3001
+In a separate terminal window,
+## run: json-server --watch db.json --port 3001
 Run the React Application:
 
 In the main terminal, run: pnpm dev
